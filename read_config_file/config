@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+database:
+  name: 
+  user: "myapp"
+  password: "s3cr3t"
+
+EXAMPLE_VAR: "variable from config file"
